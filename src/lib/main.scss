@@ -1,0 +1,11 @@
+@import "utils/fonts.scss";
+@import "utils/libs.scss";
+@import "utils/mixins.scss";
+@import "utils/vars.scss";
+
+.section_next {
+    color: green;
+    border: 2px dotted grey;
+    width: 32%;
+}
+
