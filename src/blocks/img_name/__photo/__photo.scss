@@ -1,0 +1,12 @@
+$main_color: #3d6cb0;
+
+.first__photo {
+    margin: 0 auto;
+    display: block;
+    width: 414px;
+    height: 414px;
+    background-color: $main_color;
+    border-radius: 50%;
+    box-shadow: 0 0 0 26.5px white,
+                0 0 0 27.5px $main_color;
+    }

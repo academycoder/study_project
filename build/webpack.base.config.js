@@ -24,6 +24,15 @@ module.exports = {
   },
   module: {
     rules: [
+      {
+        test: /\.(ttf|eot|woff|woff2)$/,
+        use: {
+            loader: "file-loader",
+            options: {
+                name: "fonts/[name].[ext]",
+            }
+        }
+    },
       { 
         test: /\.pug$/,
                 loader: 'pug-loader',
@@ -68,6 +77,7 @@ module.exports = {
           loader: 'postcss-loader',
           options: { sourceMap: true, config: { path: `${PATHS.src}/js/postcss.config.js` } }
         }
+
       ]
     }]
   },

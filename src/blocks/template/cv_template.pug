@@ -1,0 +1,21 @@
+//- впишите необходимые данные в переменные vars
+block vars
+    - var title2= 'Резюме Адель Дубинниковой';
+    - var description2= 'Резюме разработчика, frontend, developer';
+    - var charset2= 'UTF-8'
+    - var keywords2= 'резюме, разработчик, frontend, developer';
+    - var stylesheet2= "./template/cv_template.scss"
+doctype html
+html(lang='en')
+  head
+      meta(charset=charset2)
+      meta(name='viewport', content='width=device-width, initial-scale=1.0')
+      meta(http-equiv='X-UA-Compatible', content='ie=edge')
+      meta(name='description' content=description2)
+      meta(name='keywords' content =keywords2)
+      title '#{title2}'
+      link(rel='stylesheet', href=stylesheet2)
+  body
+    block vars_inside
+    block content
+    block script
