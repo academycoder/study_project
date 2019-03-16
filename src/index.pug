@@ -1,21 +1,16 @@
 extends ./blocks/template/cv_template.pug
-block vars_inside
 block content
-    include ./blocks/img_name/img_name.pug
+    include ./blocks/first/first.pug
     include ./blocks/profile/profile.pug
     include ./blocks/contact/contact.pug
     include ./blocks/skills/skills.pug
     include ./blocks/experience/experience.pug
     include ./blocks/education/education.pug
     include ./blocks/software/software.pug
-    .left_side
-        +profile()
-        +contact()
-        +skills()
-    .right_side
-        +experience
-        +education
-        +software
-    
-    
-    
+    +first('NAME HERE','SURNAME','GRAPHIC DESIGNER')
+    +profile()
+    +contact()
+    +skills()
+    +experience()
+    +education()
+    +software()
