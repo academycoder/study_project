@@ -1,15 +1,8 @@
 mixin table()    
     table.table_style
-        tr
-            td ADDRESS
-            td Main Street, City.
-        tr
-            td E-MAIL
-            td contact@domain.com
-        tr
-            td PHONE
-            td 555-555-555
-        tr
-            td WEBSITE
-            td www.yourweb.com
+        - const contacts = {"ADDRESS":"Main Street, City.", "E-MAIL":"contact@domain.com", "PHONE":"555-555-555", "WEBSITE":"www.yourweb.com"};
+        each i, n  in contacts
+            tr
+                td= n
+                td= i
         
