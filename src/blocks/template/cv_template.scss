@@ -1,11 +1,22 @@
+// общая ширина 2480
+//левый блок 828 px ширина вплотную к границам
+//правый ширина вплотную 1265
+//отступ между колонками = 154
+
+$font_base: 16px !global;
+$main_color: #3d6cb0 !global;
 body {
     background-color:white;
-    max-width: 2480;
+    max-width: 2480px;
     min-width: 320px;
     width: 100%;
     box-sizing: border-box;
-    padding-left: 121px;
-    padding-right: 115px;
-    padding-top: 190px;
+    padding-left: 4.879%; // 121/2480
+    padding-right: 4.677%; // 116/2480
+    padding-top: 4.8387%; //120/2480
+    padding-bottom: 6.0483%; //150/2480
     font-family: "MyriadPro";
+    font-size: $font_base;
+
 }
+

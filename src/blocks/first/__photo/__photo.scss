@@ -1,12 +1,14 @@
-$main_color: #3d6cb0;
+$font_base: 16px !global;
+$main_color: #3d6cb0 !global;
 
 .first__photo {
-    margin: 0 auto;
     display: block;
-    width: 414px;
-    height: 414px;
+    width: 32vw;
+    height: 32vw;
+    margin-top: 10.5vw;
+    margin-left: 21.65vw;
     background-color: $main_color;
     border-radius: 50%;
-    box-shadow: 0 0 0 26.5px white,
-                0 0 0 27.5px $main_color;
+    box-shadow: 0 0 0 2vw white,
+                0 0 0 2.1vw $main_color;
     }

@@ -1,14 +1,15 @@
 $main_color: #3d6cb0;
 
 .profile__icon {
+    background-image: url('PROFILE_ICON.svg');
     display: inline-block;
-    // position: relative;
-    width: 130px;
-    height: 130px;
-    background-color: $main_color;
-    border-radius: 50%;
+    position: relative;
+    width: 148px;
+    height: 143px;
+    //background-color: $main_color;
+    //border-radius: 50%;
     vertical-align: middle;
-    box-shadow: 0 0 0 9px white,
-                0 0 0 10px $main_color;
+    //box-shadow: 0 0 0 9px white,
+    //            0 0 0 10px $main_color;
     margin-right: 30px;
     }

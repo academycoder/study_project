@@ -1,8 +1,9 @@
-mixin table()    
+mixin table(n,i)
     table.table_style
         - const contacts = {"ADDRESS":"Main Street, City.", "E-MAIL":"contact@domain.com", "PHONE":"555-555-555", "WEBSITE":"www.yourweb.com"};
         each i, n  in contacts
             tr
                 td= n
                 td= i
-        
+
+            //"ADDRESS":"Main Street, City.", "E-MAIL":"contact@domain.com", "PHONE":"555-555-555", "WEBSITE":"www.yourweb.com"
