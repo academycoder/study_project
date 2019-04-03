@@ -1,4 +1,8 @@
-.profile__title {
-    display: inline-block;
-    vertical-align: baseline;
+.profile {
+  max-width: 828px;
+  min-width: 320px;
+  box-sizing: border-box;
+}
+.profile__text {
+  font-size: 50px;
 }

@@ -1,11 +1,8 @@
 $main_color: #3d6cb0;
 
 .header__icon {
-    //flex-self: stretch;
     width: 14vw;
     height: 14vw;
     background-color: $main_color;
     border-radius: 50%;
-    vertical-align: center;
-    flex-grow: 2;
-    }
+}

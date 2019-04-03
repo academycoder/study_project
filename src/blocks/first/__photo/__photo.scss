@@ -2,11 +2,12 @@ $font_base: 16px !global;
 $main_color: #3d6cb0 !global;
 
 .first__photo {
-    display: block;
+   text-align: center;
+    display: inline-block;
     width: 32vw;
     height: 32vw;
     margin-top: 10.5vw;
-    margin-left: 21.65vw;
+    //margin-left: 17.65vw;
     background-color: $main_color;
     border-radius: 50%;
     box-shadow: 0 0 0 2vw white,

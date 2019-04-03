@@ -6,14 +6,14 @@
 $font_base: 16px !global;
 $main_color: #3d6cb0 !global;
 body {
-    background-color:white;
+    background-color: white;
     max-width: 2480px;
     min-width: 320px;
     width: 100%;
     box-sizing: border-box;
-    padding-left: 4.879%; // 121/2480
+    padding-left: 9%; // 121/2480
     padding-right: 4.677%; // 116/2480
-    padding-top: 4.8387%; //120/2480
+    padding-top: 4.5%; //120/2480
     padding-bottom: 6.0483%; //150/2480
     font-family: "MyriadPro";
     font-size: $font_base;
