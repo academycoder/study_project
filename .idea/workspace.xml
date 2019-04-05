@@ -3,27 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="044c628e-4683-4384-9c8f-40a683d5ea07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.base.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/webpack.base.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/first/__name/__name.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/first/__name/__name.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/first/__photo/__photo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/first/__photo/__photo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/first/__position/__position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/first/__position/__position.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/first/__surname/__surname.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/first/__surname/__surname.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/first/first.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/first/first.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/__icon/__icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__icon/__icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/__title/__title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__title/__title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/left_side/left_side.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/left_side/left_side.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/profile/__icon/__icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/profile/__icon/__icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/profile/__title/__title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/profile/__title/__title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/profile/profile.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/profile/profile.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/profile/profile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/profile/profile.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/template/cv_template.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/template/cv_template.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/template/cv_template.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/template/cv_template.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.pug" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -41,19 +23,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/profile/profile.scss">
+        <entry file="file://$PROJECT_DIR$/src/index.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="32">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/header/__icon/__icon.scss">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="352">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -61,35 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blocks/profile/__icon/__icon.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/first/first.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/blocks/header/header.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="192">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -97,26 +52,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blocks/profile/profile.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="139">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/template/cv_template.scss">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/blocks/profile/profile.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/header/header.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="62">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -125,7 +71,21 @@
         <entry file="file://$PROJECT_DIR$/src/blocks/profile/__title/__title.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/profile/__icon/PROFILE_ICON.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/template/cv_template.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="3" column="37" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -160,30 +120,31 @@
         <option value="$PROJECT_DIR$/build/webpack.build.conf.js" />
         <option value="$PROJECT_DIR$/build/webpack.dev.conf.js" />
         <option value="$PROJECT_DIR$/src/fonts/fonts.scss" />
-        <option value="$PROJECT_DIR$/src/blocks/profile/profile.pug" />
         <option value="$PROJECT_DIR$/src/blocks/first/first.pug" />
         <option value="$PROJECT_DIR$/src/blocks/template/cv_template.pug" />
         <option value="$PROJECT_DIR$/src/blocks/left_side/left_side.scss" />
         <option value="$PROJECT_DIR$/src/blocks/left_side/left_side.pug" />
         <option value="$PROJECT_DIR$/build/webpack.base.config.js" />
         <option value="$PROJECT_DIR$/src/index.pug" />
-        <option value="$PROJECT_DIR$/src/blocks/header/__icon/__icon.scss" />
         <option value="$PROJECT_DIR$/src/blocks/header/__title/__title.scss" />
         <option value="$PROJECT_DIR$/src/blocks/first/__photo/__photo.scss" />
         <option value="$PROJECT_DIR$/src/blocks/first/__surname/__surname.scss" />
         <option value="$PROJECT_DIR$/src/blocks/first/__position/__position.scss" />
         <option value="$PROJECT_DIR$/src/blocks/first/__name/__name.scss" />
         <option value="$PROJECT_DIR$/src/blocks/template/cv_template.scss" />
-        <option value="$PROJECT_DIR$/src/blocks/profile/__icon/__icon.scss" />
-        <option value="$PROJECT_DIR$/src/blocks/profile/__title/__title.scss" />
         <option value="$PROJECT_DIR$/src/blocks/first/first.scss" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/blocks/profile/profile.scss" />
         <option value="$PROJECT_DIR$/src/blocks/header/header.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/header/__icon/__icon.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/profile/profile.pug" />
+        <option value="$PROJECT_DIR$/src/blocks/profile/__title/__title.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/profile/__icon/__icon.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/profile/profile.scss" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="117" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -235,6 +196,14 @@
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
               <item name="header" type="462c0819:PsiDirectoryNode" />
               <item name="__icon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task_cv_fsd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task_cv_fsd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+              <item name="__title" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="task_cv_fsd" type="b2602c69:ProjectViewProjectNode" />
@@ -326,12 +295,14 @@
       <workItem from="1554057705668" duration="14000" />
       <workItem from="1554057778501" duration="10000" />
       <workItem from="1554225473609" duration="2655000" />
-      <workItem from="1554291561335" duration="19774000" />
+      <workItem from="1554291561335" duration="20175000" />
+      <workItem from="1554461911760" duration="4624000" />
+      <workItem from="1554489315297" duration="979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35902000" />
+    <option name="totallyTimeSpent" value="41906000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,10 +314,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.24714519" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.25693312" />
       <window_info id="Structure" order="1" sideWeight="0.5035461" side_tool="true" weight="0.32463294" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.5007874" side_tool="true" weight="0.30016312" />
@@ -360,7 +331,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.8279412" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008157" side_tool="true" weight="0.3779412" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49918434" visible="true" weight="0.3779412" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49918434" visible="true" weight="0.37480316" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -491,12 +462,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js" />
     <entry file="file://$PROJECT_DIR$/src/blocks/profile/__icon/PROFILE_ICON.png" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/profile/__icon/PROFILE_ICON.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/IT/fsd_cv/иконки svg/PROFILE_ICON.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/IT/fsd_cv/иконки svg/PROFILE_ICON.svg" />
     <entry file="file://$PROJECT_DIR$/src/blocks/base/base.pug">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -520,9 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fonts/Myriad-Pro-Bold_31631.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fonts/Myriad-Pro-Bold_31631.svg" />
     <entry file="file://$PROJECT_DIR$/src/js/postcss.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -550,20 +514,8 @@
     <entry file="file://$PROJECT_DIR$/src/blocks/experience/experience.pug">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/left_side/left_side.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/left_side/left_side.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/left_side/left_side.scss" />
+    <entry file="file://$PROJECT_DIR$/src/blocks/left_side/left_side.pug" />
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -575,27 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3456">
           <caret line="108" column="2" selection-start-line="108" selection-start-column="2" selection-end-line="108" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/template/cv_template.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/header/__title/__title.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/first/first.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -627,16 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/skills/skills.pug">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/first/first.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -644,10 +565,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/src/blocks/header/header.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="160">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -660,50 +581,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/header/__icon/__icon.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="224">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/header/__title/__title.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/first/first.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/template/cv_template.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="21" selection-end-line="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/profile/__icon/PROFILE_ICON.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/template/cv_template.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="37" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/skills/skills.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/skills/skills.scss">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/profile/__title/__title.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/profile/__icon/__icon.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/profile/profile.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="192">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/profile/profile.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="139">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/header/header.pug">
+    <entry file="file://$PROJECT_DIR$/src/blocks/profile/profile.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="62">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
