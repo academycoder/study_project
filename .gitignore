@@ -3,4 +3,5 @@ node_modules/
 *.lock
 .babelrc
 .DS_Store
+.idea/
 
